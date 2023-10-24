@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mosenithproject</groupId>
-	<artifactId>Job-Applicant-System</artifactId>
+	<artifactId>Job-Applicantion-System</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Job-Applicant-System</name>
+	<name>Job-Application-System</name>
 	<description>Full Stack Spring Application with React</description>
 	<properties>
 		<java.version>17</java.version>
